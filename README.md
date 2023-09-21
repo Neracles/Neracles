@@ -4,7 +4,7 @@ Mainly code in the .NET ecosystem, React and Typescript.
 Finishing up a bachelor's degree in Cognitive Science while working as an IT consultant.
     
 
-[![Neracles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neracles&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/Neracles/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neracles&theme=vision-friendly-dark)](https://github.com/Neracles/github-readme-stats)
+[![Neracles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neracles&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vision-friendly-dark)](https://github.com/Neracles/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neracles&theme=vision-friendly-dark)](https://github.com/Neracles/github-readme-stats)
 <!--
 **Neracles/Neracles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
